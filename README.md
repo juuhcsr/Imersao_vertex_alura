@@ -9,6 +9,7 @@ A ideia do projeto é utilizar os modelos do vertex AI para fazer o processament
 **Objetivo específico: Usar o code colab para gerar sql, executar com a API BigQuery de forma automática e gerar insights para utilizar na criação de dashboards com o looker studio.**
 
 ![Screenshot 2024-05-11 171053](https://github.com/juuhcsr/Imersao_vertex_alura/assets/110038530/c8dccace-168d-4dd5-ab60-57f87003d124)
+[Link Da Dashboard](https://lookerstudio.google.com/reporting/cf5687ea-7577-4c7f-8560-07623abc4315)
 ![Screenshot 2024-05-11 170827](https://github.com/juuhcsr/Imersao_vertex_alura/assets/110038530/0ee45ba7-10dd-42ee-a991-f0383b53cf78)
 
 
@@ -138,4 +139,4 @@ Sobre os resultados obtidos:
 
 [Link Da Dashboard](https://lookerstudio.google.com/reporting/cf5687ea-7577-4c7f-8560-07623abc4315)
 
-![Screenshot 2024-05-11 170827](https://github.com/juuhcsr/Imersao_vertex_alura/assets/110038530/0ee45ba7-10dd-42ee-a991-f0383b53cf78)
+
